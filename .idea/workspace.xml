@@ -6,6 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="2fbc94d5-0bbb-4b20-a8d2-1bb2a52e24e7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sea/Com/Clientes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sea/Com/Clientes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sea/Com/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sea/Com/Conta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sea/Com/ContaCorrente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sea/Com/ContaCorrente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sea/Com/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sea/Com/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,12 +36,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Sea.Com.Main" />
