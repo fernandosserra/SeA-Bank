@@ -1,7 +1,10 @@
 package Sea.Com;
 
+import java.util.Scanner;
+
 public class Main {
     public static void main(String[] args) {
+
         Clientes cli1 = new Clientes();
         cli1.setClienteNome("Fernando A");
         cli1.setClienteSobrenome("Souza Serra");

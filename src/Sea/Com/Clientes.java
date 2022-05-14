@@ -1,7 +1,7 @@
 package Sea.Com;
 
 public class Clientes {
-    private static int CLIENTE_ID = 0;
+    private static int CLIENTE_ID = 1;
     public int clienteId;
     public String clienteNome;
     public String clienteSobrenome;

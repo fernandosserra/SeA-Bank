@@ -4,11 +4,10 @@ import static Sea.Com.Banco.AGENCIA_PADRAO;
 
 public abstract class Conta implements IConta {
 
-    private static int SEQUENCIAL = 12000000;
+    private static int SEQUENCIAL = 1;
     protected int agencia;
     protected int numero;
     protected double saldo;
-
     private Clientes cliente;
 
     public Conta(Clientes cliente) {

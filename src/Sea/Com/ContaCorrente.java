@@ -1,6 +1,5 @@
 package Sea.Com;
 
-import static Sea.Com.Banco.AGENCIA_PADRAO;
 import static Sea.Com.Banco.NOME_BANCO;
 
 public class ContaCorrente extends Conta {
